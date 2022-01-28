@@ -1,0 +1,3 @@
+# What I learned in boating school is...
+I've learned how to navigate the Github website which was difficult for me to understand at first glance. I'm still having trouble with more detailed instructions for what Github's other functions do.
+Also, I'm still figuring out what I should put in my profile.
